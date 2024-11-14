@@ -1,0 +1,7 @@
+colorama
+nmap
+python-nmap
+requests
+beautifulsoup4
+scapy
+lxml

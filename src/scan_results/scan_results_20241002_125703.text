@@ -1,0 +1,5 @@
+Scan Results:
+Target: 127.0.0.1 (127.0.0.1)
+Open ports: {'port': 80, 'protocol': 'tcp', 'state': 'open', 'reason': 'syn-ack', 'service': 'http', 'version': '2.4.62', 'product': 'Apache httpd', 'cpe': 'cpe:/a:apache:http_server:2.4.62', 'os': 'Linux (Accuracy: 100%)', 'banner': 'Apache httpd'}
+Scanned port range: 80
+Thorough scan: Yes
